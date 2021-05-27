@@ -15,5 +15,8 @@ p {
   font-size: 17.5px;
 }
 iframe{
-    border-width:20
+    border-width:20;
+}
+html {
+    scroll-behavior: smooth
 }
